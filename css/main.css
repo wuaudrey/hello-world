@@ -1,11 +1,12 @@
 body {
   background-color:rgb(236, 255, 226);
 }
+<basefont>
 h1 {
-  font-family: san-serif;
+  font-family: sans-serif;
 }
 h2 {
-  font-family: serif;
+  font-family: sans-serif;
 }
 
 /* Flexible images */
