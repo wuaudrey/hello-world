@@ -4,13 +4,14 @@ body {
 h1 {
   font-family: sans-serif;
   font: verdana;
-  color: red;
 }
 h2 {
   font-family: sans-serif;
   font: verdana;
-  color: red;
 }
+p {
+  font-family: sans-serif;
+  font: verdana;
 
 /* Flexible images */
 
