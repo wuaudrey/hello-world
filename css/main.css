@@ -1,13 +1,15 @@
 body {
   background-color:rgb(238, 255, 238);
 }
-<basefont>
 h1 {
   font-family: sans-serif;
+  font: verdana;
   color: red;
 }
 h2 {
   font-family: sans-serif;
+  font: verdana;
+  color: red;
 }
 
 /* Flexible images */
