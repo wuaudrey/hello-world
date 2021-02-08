@@ -1,8 +1,9 @@
+background-color:rgba(50, 115, 220, 0.3);
 h1 {
   font-family: san-serif;
 }
 h2 {
-  font-family: cursive;
+  font-family: serif;
 }
 
 /* Flexible images */
@@ -11,3 +12,4 @@ img {
   max-width: 100%;
   height: auto;
 }
+
