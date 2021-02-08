@@ -3,12 +3,13 @@ body {
 }
 h1 {
   font-family: sans-serif;
-  font: verdana;
+  font: Tahoma;
+  font-size: 20px;
   color: rgb(0, 55, 183);
 }
 h2 {
   font-family: sans-serif;
-  font: arial-black;
+  font: Tahoma;
   color: rgb(0, 55, 183);
 }
 h3 {
