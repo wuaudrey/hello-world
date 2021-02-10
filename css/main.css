@@ -12,25 +12,25 @@ h1 {
   border-color: blue;
 }
 h2 {
-  font-family: serif;
+  font-family: sans-serif;
   font-size: xx-large;
   font-weight: bold;
   color: rgb(0, 55, 183);
   box-sizing: content-box;
 }
 h3 {
-  font-family: serif;
+  font-family: sans-serif;
    font-size: 20px;
 }
 h4 {
-  font-family: serif;
+  font-family: sans-serif;
    font-size: 20px;
 }
 p {
-  font-family: serif;
+  font-family: sans-serif;
 }
 a {
-  fon-family: serif;
+  fon-family: sans-serif;
 }
 
 /* Flexible images */
