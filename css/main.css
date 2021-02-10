@@ -1,7 +1,8 @@
 body {
   background-color:rgb(255, 255, 233);
-  padding: 40px;
   border-width: 4px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 h1 {
   font-family: serif;
