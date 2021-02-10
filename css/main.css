@@ -1,8 +1,7 @@
 body {
   background-color:rgb(255, 255, 233);
-  border-width: 4px;
-  margin-left: 30%;
-  margin-right: 30%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 h1 {
   font-family: serif;
@@ -20,7 +19,8 @@ h2 {
 }
 h3 {
   font-family: sans-serif;
-   font-size: 20px;
+  font-size: 20px;
+  color: pink
 }
 h4 {
   font-family: sans-serif;
